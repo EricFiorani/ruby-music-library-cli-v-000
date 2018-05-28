@@ -18,7 +18,7 @@ class Song
   end
 
   def save
-    @@all << save
+    @@all << self
   end
 
 end
