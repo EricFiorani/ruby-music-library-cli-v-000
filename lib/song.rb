@@ -22,5 +22,7 @@ class Song
   end
 
   def create
+    initialize
+    save
 
 end
