@@ -17,8 +17,8 @@ class Song
     @@all.clear
   end
 
-  # def save
-  #   save
-  # end
+  def save
+    save
+  end
 
 end
